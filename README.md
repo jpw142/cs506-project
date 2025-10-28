@@ -9,3 +9,5 @@ So far for data processing I have
 I have modeled the data through clusters but I plan to study clusters and themes throughout contracts and analyze the trends across history
 
 I have done some clustering and have found distinctive clusters around hardware, AI, drone swarms, etc etc etc. But I would like to be able to create comparisons between these clusters as they evolve through time
+
+I will upload the Youtube video and visualization tonight 10/28 
